@@ -1,0 +1,398 @@
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Hyper.Games.Chess.dll.config
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Hyper.Games.Chess.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Hyper.Games.Chess.pdb
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Antlr3.Runtime.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Autofac.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Autofac.Integration.Mvc.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Autofac.Integration.SignalR.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\EntityFramework.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\EntityFramework.SqlServer.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Hyper.SignalR.Session.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.Owin.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.Owin.Security.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\MongoDB.Bson.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\MongoDB.Driver.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Newtonsoft.Json.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Owin.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\SignalR.Extras.Autofac.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\System.Web.Helpers.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\System.Web.Mvc.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\System.Web.Optimization.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\System.Web.Razor.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\System.Web.WebPages.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\WebGrease.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Hyper.SignalR.Session.pdb
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Antlr3.Runtime.pdb
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Autofac.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Autofac.Integration.Mvc.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Autofac.Integration.SignalR.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\EntityFramework.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\EntityFramework.SqlServer.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.Owin.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.Owin.Security.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\MongoDB.Bson.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\MongoDB.Driver.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\Newtonsoft.Json.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\System.Web.Helpers.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\System.Web.Mvc.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\System.Web.Optimization.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\System.Web.Razor.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\System.Web.WebPages.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\obj\Debug\Hyper.Games.Chess.csprojResolveAssemblyReference.cache
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\obj\Debug\Hyper.Games.Chess.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\Hyper.Games.Chess\obj\Debug\Hyper.Games.Chess.pdb
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Hyper.Games.Chess.dll.config
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Hyper.Games.Chess.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Hyper.Games.Chess.pdb
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Antlr3.Runtime.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Autofac.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Autofac.Integration.Mvc.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Autofac.Integration.SignalR.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\EntityFramework.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\EntityFramework.SqlServer.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Hyper.Libs.SignalR.Session.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\MongoDB.Bson.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\MongoDB.Driver.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Newtonsoft.Json.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Owin.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\SignalR.Extras.Autofac.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.Helpers.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.Mvc.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.Optimization.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.Razor.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.WebPages.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\WebGrease.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Hyper.Libs.SignalR.Session.pdb
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Antlr3.Runtime.pdb
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Autofac.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Autofac.Integration.Mvc.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Autofac.Integration.SignalR.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\EntityFramework.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\EntityFramework.SqlServer.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\MongoDB.Bson.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\MongoDB.Driver.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Newtonsoft.Json.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.Helpers.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.Mvc.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.Optimization.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.Razor.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.WebPages.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\obj\Debug\Hyper.Games.Chess.csprojResolveAssemblyReference.cache
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\obj\Debug\Hyper.Games.Chess.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\obj\Debug\Hyper.Games.Chess.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Hyper.Games.Chess.dll.config
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Hyper.Games.Chess.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Hyper.Games.Chess.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Antlr3.Runtime.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Autofac.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Autofac.Integration.Mvc.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Autofac.Integration.SignalR.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\EntityFramework.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\EntityFramework.SqlServer.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Hyper.Libs.SignalR.Session.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\MongoDB.Bson.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\MongoDB.Driver.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Newtonsoft.Json.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Owin.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\SignalR.Extras.Autofac.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.Helpers.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.Mvc.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.Optimization.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.Razor.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.WebPages.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.WebPages.Razor.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\WebGrease.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Hyper.Libs.SignalR.Session.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Antlr3.Runtime.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Autofac.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Autofac.Integration.Mvc.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Autofac.Integration.SignalR.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\EntityFramework.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\EntityFramework.SqlServer.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\MongoDB.Bson.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\MongoDB.Driver.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\Newtonsoft.Json.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.Helpers.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.Mvc.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.Optimization.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.Razor.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.WebPages.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\bin\System.Web.WebPages.Razor.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\obj\Debug\Hyper.Games.Chess.csprojResolveAssemblyReference.cache
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\obj\Debug\Hyper.Games.Chess.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\Hyper.Games.Chess\obj\Debug\Hyper.Games.Chess.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.dll.config
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Antlr3.Runtime.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Autofac.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Autofac.Integration.Mvc.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Autofac.Integration.SignalR.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Libs.SignalR.Session.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\MongoDB.Bson.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\MongoDB.Driver.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Newtonsoft.Json.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Owin.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\SignalR.Extras.Autofac.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.Helpers.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.Mvc.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.Optimization.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.Razor.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.WebPages.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.WebPages.Razor.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\WebGrease.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Libs.SignalR.Session.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Antlr3.Runtime.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Autofac.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Autofac.Integration.Mvc.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Autofac.Integration.SignalR.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\MongoDB.Bson.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\MongoDB.Driver.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Newtonsoft.Json.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.Helpers.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.Mvc.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.Optimization.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.Razor.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.WebPages.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.WebPages.Razor.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\obj\Debug\Hyper.Games.Chess.csprojResolveAssemblyReference.cache
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\obj\Debug\Hyper.Games.Chess.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\obj\Debug\Hyper.Games.Chess.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\ChessAlgorithm.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\ChessAlgorithm.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Valil.Chess.Model.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Valil.Chess.Model.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.Cofiguration.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.Core.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.Infrastructure.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.Service.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Infrastructure.Matchmaking.Server.exe
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Hosting.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Cors.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.Cors.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.Cofiguration.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.Core.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.Infrastructure.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.Service.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Infrastructure.Matchmaking.Server.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Hosting.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Cors.xml
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\Hyper.Games.Chess\bin\MongoDB.AspNet.Identity.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.dll.config
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Antlr3.Runtime.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Autofac.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Autofac.Integration.Mvc.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Autofac.Integration.SignalR.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\ChessAlgorithm.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.Cofiguration.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.Core.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.Infrastructure.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.Service.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Infrastructure.Matchmaking.Server.exe
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Libs.SignalR.Session.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\MongoDB.AspNet.Identity.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\MongoDB.Bson.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\MongoDB.Driver.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Newtonsoft.Json.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Owin.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\SignalR.Extras.Autofac.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.Helpers.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.Mvc.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.Optimization.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.Razor.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.WebPages.Deployment.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.WebPages.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.WebPages.Razor.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Valil.Chess.Model.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\WebGrease.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Hosting.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Cors.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.Cors.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\ChessAlgorithm.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.Cofiguration.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.Core.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.Infrastructure.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Games.Chess.Service.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Infrastructure.Matchmaking.Server.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Hyper.Libs.SignalR.Session.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Valil.Chess.Model.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Antlr3.Runtime.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Autofac.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Autofac.Integration.Mvc.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Autofac.Integration.SignalR.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\MongoDB.Bson.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\MongoDB.Driver.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Newtonsoft.Json.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.Helpers.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.Mvc.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.Optimization.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.Razor.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.WebPages.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.WebPages.Deployment.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\System.Web.WebPages.Razor.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Hosting.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\bin\Microsoft.Owin.Cors.xml
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\obj\Debug\Hyper.Games.Chess.csprojResolveAssemblyReference.cache
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\obj\Debug\Hyper.Games.Chess.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\Hyper.Games.Chess\obj\Debug\Hyper.Games.Chess.pdb

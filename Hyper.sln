@@ -1,0 +1,95 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{1B2C6D91-8118-453E-A7EA-5F8C9D3401E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hyper.Libs.SignalR.Session", "Hyper.Libs.SignalR.Session\Hyper.Libs.SignalR.Session.csproj", "{DAA135A8-EEC3-4651-9ECC-71B8D99BBB79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hyper.Games.Chess", "Hyper.Games.Chess\Hyper.Games.Chess.csproj", "{9060AF22-DE5E-4B6D-A88E-7FE6DA1E7E4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hyper.Infrastructure.Matchmaking.Server", "Hyper.Infrastructure.Matchmaking.Server\Hyper.Infrastructure.Matchmaking.Server.csproj", "{50E85421-A10F-48DC-AB59-B0C60B3EF354}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Matchmaking", "Matchmaking", "{836EBCB8-DF18-4925-89D3-C079B1AF6281}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChessAlgorithm", "ChessAlgorithm\ChessAlgorithm.csproj", "{BBF95E3C-E1BD-46E6-A6D1-280E7CA9CCDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{4C6A0278-683E-4FAC-AEAF-C7583898DD43}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{8D4A0FDC-5E0D-4B24-BD61-FC560AEB8CFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MatchmakingAlgorithms", "MatchmakingAlgorithms", "{1BF04368-3B6F-4B06-B3D0-99EA3938A64D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valil.Chess.Model", "Valil.Chess.Model\Valil.Chess.Model.csproj", "{FE061FAE-37C2-4BC7-B6CA-F146325D032E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chess", "Chess", "{3D672FA6-3760-4EC7-8BB7-B38966C196A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hyper.Games.Chess.Cofiguration", "Hyper.Games.Chess.Cofiguration\Hyper.Games.Chess.Cofiguration.csproj", "{E7513783-B584-4AEC-A69D-EFB2FD476449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hyper.Games.Chess.Infrastructure", "Hyper.Games.Chess.Infrastructure\Hyper.Games.Chess.Infrastructure.csproj", "{72253BB8-513E-4D7C-A800-730EB1FC0E1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hyper.Games.Chess.Core", "Hyper.Games.Chess.Core\Hyper.Games.Chess.Core.csproj", "{4A9CBE10-23A6-4AA7-9633-1B2CE32B4BAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hyper.Games.Chess.Service", "Hyper.Games.Chess.Service\Hyper.Games.Chess.Service.csproj", "{50E48A7C-ACBB-4F60-A9C4-6A67CCFC2622}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA135A8-EEC3-4651-9ECC-71B8D99BBB79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAA135A8-EEC3-4651-9ECC-71B8D99BBB79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAA135A8-EEC3-4651-9ECC-71B8D99BBB79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAA135A8-EEC3-4651-9ECC-71B8D99BBB79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9060AF22-DE5E-4B6D-A88E-7FE6DA1E7E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9060AF22-DE5E-4B6D-A88E-7FE6DA1E7E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9060AF22-DE5E-4B6D-A88E-7FE6DA1E7E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9060AF22-DE5E-4B6D-A88E-7FE6DA1E7E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50E85421-A10F-48DC-AB59-B0C60B3EF354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E85421-A10F-48DC-AB59-B0C60B3EF354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E85421-A10F-48DC-AB59-B0C60B3EF354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E85421-A10F-48DC-AB59-B0C60B3EF354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF95E3C-E1BD-46E6-A6D1-280E7CA9CCDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF95E3C-E1BD-46E6-A6D1-280E7CA9CCDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF95E3C-E1BD-46E6-A6D1-280E7CA9CCDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF95E3C-E1BD-46E6-A6D1-280E7CA9CCDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE061FAE-37C2-4BC7-B6CA-F146325D032E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE061FAE-37C2-4BC7-B6CA-F146325D032E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE061FAE-37C2-4BC7-B6CA-F146325D032E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE061FAE-37C2-4BC7-B6CA-F146325D032E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7513783-B584-4AEC-A69D-EFB2FD476449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7513783-B584-4AEC-A69D-EFB2FD476449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7513783-B584-4AEC-A69D-EFB2FD476449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7513783-B584-4AEC-A69D-EFB2FD476449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72253BB8-513E-4D7C-A800-730EB1FC0E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72253BB8-513E-4D7C-A800-730EB1FC0E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72253BB8-513E-4D7C-A800-730EB1FC0E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72253BB8-513E-4D7C-A800-730EB1FC0E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A9CBE10-23A6-4AA7-9633-1B2CE32B4BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A9CBE10-23A6-4AA7-9633-1B2CE32B4BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A9CBE10-23A6-4AA7-9633-1B2CE32B4BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A9CBE10-23A6-4AA7-9633-1B2CE32B4BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50E48A7C-ACBB-4F60-A9C4-6A67CCFC2622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E48A7C-ACBB-4F60-A9C4-6A67CCFC2622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E48A7C-ACBB-4F60-A9C4-6A67CCFC2622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E48A7C-ACBB-4F60-A9C4-6A67CCFC2622}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DAA135A8-EEC3-4651-9ECC-71B8D99BBB79} = {8D4A0FDC-5E0D-4B24-BD61-FC560AEB8CFC}
+		{9060AF22-DE5E-4B6D-A88E-7FE6DA1E7E4B} = {3D672FA6-3760-4EC7-8BB7-B38966C196A6}
+		{50E85421-A10F-48DC-AB59-B0C60B3EF354} = {836EBCB8-DF18-4925-89D3-C079B1AF6281}
+		{836EBCB8-DF18-4925-89D3-C079B1AF6281} = {1B2C6D91-8118-453E-A7EA-5F8C9D3401E6}
+		{BBF95E3C-E1BD-46E6-A6D1-280E7CA9CCDE} = {1BF04368-3B6F-4B06-B3D0-99EA3938A64D}
+		{FE061FAE-37C2-4BC7-B6CA-F146325D032E} = {8D4A0FDC-5E0D-4B24-BD61-FC560AEB8CFC}
+		{3D672FA6-3760-4EC7-8BB7-B38966C196A6} = {4C6A0278-683E-4FAC-AEAF-C7583898DD43}
+		{E7513783-B584-4AEC-A69D-EFB2FD476449} = {3D672FA6-3760-4EC7-8BB7-B38966C196A6}
+		{72253BB8-513E-4D7C-A800-730EB1FC0E1A} = {3D672FA6-3760-4EC7-8BB7-B38966C196A6}
+		{4A9CBE10-23A6-4AA7-9633-1B2CE32B4BAA} = {3D672FA6-3760-4EC7-8BB7-B38966C196A6}
+		{50E48A7C-ACBB-4F60-A9C4-6A67CCFC2622} = {3D672FA6-3760-4EC7-8BB7-B38966C196A6}
+	EndGlobalSection
+EndGlobal

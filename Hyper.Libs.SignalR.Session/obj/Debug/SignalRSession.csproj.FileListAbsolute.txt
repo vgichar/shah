@@ -1,0 +1,17 @@
+C:\Users\Vojdan\documents\visual studio 2013\Projects\HyperChess\SignalRSession\bin\Debug\SignalRSession.dll
+C:\Users\Vojdan\documents\visual studio 2013\Projects\HyperChess\SignalRSession\bin\Debug\SignalRSession.pdb
+C:\Users\Vojdan\documents\visual studio 2013\Projects\HyperChess\SignalRSession\obj\Debug\SignalRSession.dll
+C:\Users\Vojdan\documents\visual studio 2013\Projects\HyperChess\SignalRSession\obj\Debug\SignalRSession.pdb
+C:\Users\Vojdan\documents\visual studio 2013\Projects\HyperChess\SignalRSession\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Vojdan\documents\visual studio 2013\Projects\HyperChess\SignalRSession\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Vojdan\documents\visual studio 2013\Projects\HyperChess\SignalRSession\bin\Debug\Microsoft.Owin.dll
+C:\Users\Vojdan\documents\visual studio 2013\Projects\HyperChess\SignalRSession\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vojdan\documents\visual studio 2013\Projects\HyperChess\SignalRSession\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Vojdan\documents\visual studio 2013\Projects\HyperChess\SignalRSession\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vojdan\documents\visual studio 2013\Projects\HyperChess\SignalRSession\bin\Debug\Owin.dll
+C:\Users\Vojdan\documents\visual studio 2013\Projects\HyperChess\SignalRSession\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Vojdan\documents\visual studio 2013\Projects\HyperChess\SignalRSession\bin\Debug\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Vojdan\documents\visual studio 2013\Projects\HyperChess\SignalRSession\bin\Debug\Microsoft.Owin.xml
+C:\Users\Vojdan\documents\visual studio 2013\Projects\HyperChess\SignalRSession\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vojdan\documents\visual studio 2013\Projects\HyperChess\SignalRSession\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Vojdan\documents\visual studio 2013\Projects\HyperChess\SignalRSession\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,17 @@
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\SharedAlgorithm\bin\Debug\SharedAlgorithm.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\SharedAlgorithm\bin\Debug\SharedAlgorithm.pdb
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\SharedAlgorithm\obj\Debug\SharedAlgorithm.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\SharedAlgorithm\obj\Debug\SharedAlgorithm.pdb
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\SharedAlgorithm\bin\Debug\SharedAlgorithm.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\SharedAlgorithm\bin\Debug\SharedAlgorithm.pdb
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\SharedAlgorithm\obj\Debug\SharedAlgorithm.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\SharedAlgorithm\obj\Debug\SharedAlgorithm.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\SharedAlgorithm\bin\Debug\SharedAlgorithm.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\SharedAlgorithm\bin\Debug\SharedAlgorithm.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\SharedAlgorithm\obj\Debug\SharedAlgorithm.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\SharedAlgorithm\obj\Debug\SharedAlgorithm.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\SharedAlgorithm\obj\Debug\SharedAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\SharedAlgorithm\bin\Debug\SharedAlgorithm.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\SharedAlgorithm\bin\Debug\SharedAlgorithm.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\SharedAlgorithm\obj\Debug\SharedAlgorithm.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\SharedAlgorithm\obj\Debug\SharedAlgorithm.pdb

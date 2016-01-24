@@ -1,0 +1,40 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<div id="board" style="width: 400px"></div>
+
+<button id="check-login">Check Login</button>
+
+<script src="~/Scripts/chess/chessboard-0.3.0.min.js"></script>
+<script src="~/Scripts/jquery.signalR-2.2.0.min.js"></script>
+<script src="~/Scripts/toastr.min.js"></script>
+<script src="/signalr/hubs"></script>
+<script>
+
+    $(function () {
+        var board = new ChessBoard('board', {
+            draggable: true,
+            dropOffBoard: 'snapback'
+        });
+        board.start();
+
+        var connection = $.connection;
+        var gameHubProxy = connection.gameHub;
+
+        gameHubProxy.on("reportMatch", function (matchId) {
+            toastr.success(matchId);
+        });
+
+        gameHubProxy.on("searching", function () {
+            toastr.info("searching...");
+        });
+
+        connection.hub.start()
+            .done(function () {
+                gameHubProxy.invoke("FindMatch");
+            })
+            .fail(function () {
+                console.log('Could not connect');
+            });
+    });
+</script>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50215</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{FE061FAE-37C2-4BC7-B6CA-F146325D032E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Valil.Chess.Model</RootNamespace>
+    <AssemblyName>Valil.Chess.Model</AssemblyName>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>chess.snk</AssemblyOriginatorKeyFile>
+    <DelaySign>false</DelaySign>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BlackBishop.cs" />
+    <Compile Include="BlackKing.cs" />
+    <Compile Include="BlackKnight.cs" />
+    <Compile Include="BlackPawn.cs" />
+    <Compile Include="BlackPiece.cs" />
+    <Compile Include="BlackQueen.cs" />
+    <Compile Include="BlackRook.cs" />
+    <Compile Include="Board.cs" />
+    <Compile Include="CastlingMove.cs" />
+    <Compile Include="EnPassantCaptureMove.cs" />
+    <Compile Include="Game.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="GameStringDescriptionProxyHelper.cs" />
+    <Compile Include="GameStringDescriptionProxy.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Interfaces.cs" />
+    <Compile Include="Move.cs" />
+    <Compile Include="MoveEvents.cs" />
+    <Compile Include="Piece.cs" />
+    <Compile Include="PromotionMove.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Utils.cs" />
+    <Compile Include="WhiteBishop.cs" />
+    <Compile Include="WhiteKing.cs" />
+    <Compile Include="WhiteKnight.cs" />
+    <Compile Include="WhitePawn.cs" />
+    <Compile Include="WhitePiece.cs" />
+    <Compile Include="WhiteQueen.cs" />
+    <Compile Include="WhiteRook.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="chess.snk" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="license.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSHARP.Targets" />
+</Project>

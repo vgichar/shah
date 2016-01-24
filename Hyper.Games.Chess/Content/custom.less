@@ -1,0 +1,76 @@
+﻿.body-content {
+    margin-top: 80px;
+}
+
+#board {
+    display: inline-block;
+}
+
+#pgn-container {
+    vertical-align: top;
+    margin-top: 15px;
+
+    .pgn {
+        vertical-align: top;
+        display: inline-block;
+        min-width: 180px;
+
+        table {
+            text-align: center;
+            width: 100%;
+            background-color: whitesmoke;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            font-size: 14px;
+
+            tr {
+
+                th {
+                    text-align: center;
+                }
+
+                th:nth-of-type(1), td:nth-of-type(1) {
+                    width: 40px;
+                }
+
+                td, th {
+                    border: 1px solid grey;
+                    padding: 5px;
+                    font-weight: bold;
+                }
+            }
+        }
+
+        table:hover {
+            cursor: default;
+        }
+    }
+}
+
+.player-info {
+    font-weight: bold;
+    font-size: 20px;
+    margin: 15px;
+
+    span {
+        margin: 3px;
+    }
+
+    span.time {
+        float: right;
+    }
+}
+
+.match-controls{
+    > div{
+        padding: 10px;
+    }
+}
+
+#game-status-container{
+    > *{
+        margin-top: 5px;
+    }
+}

@@ -1,0 +1,74 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="col-lg-6 col-xs-12">
+    <p class="col-xs-12 player-info" id="other-info">
+        <span class="rating"></span>
+        <span class="name"></span>
+        <span class="time"></span>
+    </p>
+
+    <div id="board" class="col-xs-12"></div>
+
+    <p class="col-xs-12 player-info" id="my-info">
+        <span class="rating"></span>
+        <span class="name"></span>
+        <span class="time"></span>
+    </p>
+</div>
+
+<div class="col-lg-6 col-xs-12 match-controls">
+    <div id="seek-container">
+        <form class="form-horizontal">
+            <div class="form-group">
+                <label class="col-xs-3">From rating:</label>
+                <div class="col-xs-9">
+                    <input type="number" value="1200" min="0" max="4000" id="seek-from-rating" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-xs-3">To rating:</label>
+                <div class="col-xs-9">
+                    <input type="number" value="1600" min="0" max="4000" id="seek-to-rating" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-xs-3">Initial time:</label>
+                <div class="col-xs-9">
+                    <input type="text" value="00:10:00" id="seek-initial-time" />
+                </div>
+            </div>
+            <div class="form-group">
+                <label class="col-xs-3">Addition time:</label>
+                <div class="col-xs-9">
+                    <input type="text" value="00:00:02" id="seek-add-time" />
+                </div>
+            </div>
+            <button type="button" id="search" class="btn btn-success">Search game</button>
+            <button type="button" id="stop-search" class="btn btn-danger hidden">Stop searching game</button>
+        </form>
+    </div>
+    <div id="game-status-container">
+        <p class="col-xs-12">Status: <span id="status"></span></p>
+        <button id="claim-win" class="col-xs-12 btn btn-success hidden">Claim win by opponent disconnect</button>
+        <button id="leave-game" class="col-xs-12 btn btn-danger">Leave game</button>
+        <div id="draw" class="col-xs-12" style="padding: 0;">
+            <button id="draw-game" class="col-xs-12 btn btn-info">Offer a draw</button>
+            <div class="col-xs-6" style="text-align: center;">
+                <button id="draw-yes" class="btn btn-warning hidden">Accept draw</button>
+            </div>
+            <div class="col-xs-6">
+                <button id="draw-no" class="btn btn-danger hidden">Deny draw</button>
+            </div>
+        </div>
+        <div id="pgn-container" class="col-xs-12"></div>
+    </div>
+</div>
+
+<script src="~/Scripts/chess/chess.js"></script>
+<script src="~/Scripts/chess/chessboard-0.3.0.js"></script>
+<script src="~/Scripts/jquery.signalR-2.2.0.min.js"></script>
+<script src="~/Scripts/toastr.min.js"></script>
+<script src="/signalr/hubs"></script>
+<script src="~/Scripts/chess/chess-game.js"></script>

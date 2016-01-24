@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BlackPawnRank8Msg">
+    <value xml:space="preserve">Black pawns must not have rank 8.</value>
+  </data>
+  <data name="BlackToMoveText">
+    <value xml:space="preserve">Black to move</value>
+  </data>
+  <data name="CheckmateText">
+    <value xml:space="preserve">Checkmate</value>
+  </data>
+  <data name="CheckText">
+    <value xml:space="preserve">Check</value>
+  </data>
+  <data name="Draw50MoveRuleText">
+    <value xml:space="preserve">Draw: 50-move rule</value>
+  </data>
+  <data name="DrawInsufficientMaterialText">
+    <value xml:space="preserve">Draw: Insufficient material</value>
+  </data>
+  <data name="DrawRepetitionText">
+    <value xml:space="preserve">Draw: Repetition</value>
+  </data>
+  <data name="IllegalBlackKingLongCastlingMsg">
+    <value xml:space="preserve">Illegal long castling availability for white king.</value>
+  </data>
+  <data name="IllegalBlackKingShortCastlingMsg">
+    <value xml:space="preserve">Illegal short castling availability for black king.</value>
+  </data>
+  <data name="IllegalBoardStatusMsg">
+    <value xml:space="preserve">Illegal board status.</value>
+  </data>
+  <data name="IllegalCANFormatMsg">
+    <value xml:space="preserve">Illegal CAN move format.</value>
+  </data>
+  <data name="IllegalCANMoveMsg">
+    <value xml:space="preserve">Illegal CAN move.</value>
+  </data>
+  <data name="IllegalEPTargetMsg">
+    <value xml:space="preserve">Illegal en passant target.</value>
+  </data>
+  <data name="IllegalFENFormatMsg">
+    <value xml:space="preserve">Illegal FEN board format.</value>
+  </data>
+  <data name="IllegalGameStateMsg">
+    <value xml:space="preserve">Illegal initial game state.</value>
+  </data>
+  <data name="IllegalMoveMsg">
+    <value xml:space="preserve">IllegalMoveMsg</value>
+  </data>
+  <data name="IllegalSANFormatMsg">
+    <value xml:space="preserve">Illegal SAN move format.</value>
+  </data>
+  <data name="IllegalSANMoveMsg">
+    <value xml:space="preserve">Illegal SAN move.</value>
+  </data>
+  <data name="IllegalWhiteKingLongCastlingMsg">
+    <value xml:space="preserve">Illegal long castling availability for white king.</value>
+  </data>
+  <data name="IllegalWhiteKingShortCastlingMsg">
+    <value xml:space="preserve">Illegal short castling availability for white king.</value>
+  </data>
+  <data name="MoreThanOneBlackKingMsg">
+    <value xml:space="preserve">More than one black king.</value>
+  </data>
+  <data name="MoreThanOneWhiteKingMsg">
+    <value xml:space="preserve">More than one white king.</value>
+  </data>
+  <data name="NoBlackKingMsg">
+    <value xml:space="preserve">No black king.</value>
+  </data>
+  <data name="NonNegativePlyMsg">
+    <value xml:space="preserve">Ply must be greater or equal to 0.</value>
+  </data>
+  <data name="NoPromotionMsg">
+    <value xml:space="preserve">The promotion type is not set.</value>
+  </data>
+  <data name="NoSideNotToMoveCheckMsg">
+    <value xml:space="preserve">The side which is not to move cannot be in check.</value>
+  </data>
+  <data name="NoWhiteKingMsg">
+    <value xml:space="preserve">No white king.</value>
+  </data>
+  <data name="NullBoardMsg">
+    <value xml:space="preserve">Null board.</value>
+  </data>
+  <data name="NullCANMsg">
+    <value xml:space="preserve">Null CAN.</value>
+  </data>
+  <data name="NullFENMsg">
+    <value xml:space="preserve">Null FEN.</value>
+  </data>
+  <data name="NullGameMsg">
+    <value xml:space="preserve">Null game.</value>
+  </data>
+  <data name="NullMoveMsg">
+    <value xml:space="preserve">Null move.</value>
+  </data>
+  <data name="NullSANMsg">
+    <value xml:space="preserve">Null SAN.</value>
+  </data>
+  <data name="PositiveMoveNoMsg">
+    <value xml:space="preserve">Number of moves must be greater or equal to 1.</value>
+  </data>
+  <data name="StalemateText">
+    <value xml:space="preserve">Stalemate</value>
+  </data>
+  <data name="TooManyBlackPiecesMsg">
+    <value xml:space="preserve">Too many black pieces.</value>
+  </data>
+  <data name="TooManyWhitePiecesMsg">
+    <value xml:space="preserve">Too many white pieces.</value>
+  </data>
+  <data name="WhitePawnRank1Msg">
+    <value xml:space="preserve">White pawns must not have rank 1.</value>
+  </data>
+  <data name="WhiteToMoveText">
+    <value xml:space="preserve">White to move</value>
+  </data>
+</root>

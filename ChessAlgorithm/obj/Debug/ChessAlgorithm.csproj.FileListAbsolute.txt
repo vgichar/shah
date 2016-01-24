@@ -1,0 +1,34 @@
+C:\Users\Vojdan\Documents\Visual Studio 2013\AlgorithmLibraries\ChessAlgorithm.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\AlgorithmLibraries\ChessAlgorithm.pdb
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\AlgorithmLibraries\ChessAlgorithm.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\AlgorithmLibraries\ChessAlgorithm.pdb
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\ChessAlgorithm\AlgorithmLibraries\ChessAlgorithm.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\ChessAlgorithm\AlgorithmLibraries\ChessAlgorithm.pdb
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\ChessAlgorithm\obj\Debug\ChessAlgorithm.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\ChessAlgorithm\obj\Debug\ChessAlgorithm.pdb
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\HyperGame\ChessAlgorithm\obj\Debug\ChessAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\AlgorithmLibraries\ChessAlgorithm.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\AlgorithmLibraries\ChessAlgorithm.pdb
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\ChessAlgorithm\obj\Debug\ChessAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\ChessAlgorithm\obj\Debug\ChessAlgorithm.dll
+C:\Users\Vojdan\Documents\Visual Studio 2013\Projects\Hyper\ChessAlgorithm\obj\Debug\ChessAlgorithm.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\AlgorithmLibraries\ChessAlgorithm.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\AlgorithmLibraries\ChessAlgorithm.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\ChessAlgorithm\obj\Debug\ChessAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\ChessAlgorithm\obj\Debug\ChessAlgorithm.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper\ChessAlgorithm\obj\Debug\ChessAlgorithm.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\AlgorithmLibraries\ChessAlgorithm.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\AlgorithmLibraries\ChessAlgorithm.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\ChessAlgorithm\obj\Debug\ChessAlgorithm.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\ChessAlgorithm\obj\Debug\ChessAlgorithm.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\ChessAlgorithm\ChessAlgorithm.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\ChessAlgorithm\ChessAlgorithm.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\ChessAlgorithm\SharedAlgorithm.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\ChessAlgorithm\SharedAlgorithm.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\ChessAlgorithm\bin\Debug\ChessAlgorithm.dll
+C:\Users\vojda_000\Documents\Visual Studio 2013\Projects\Hyper School\ChessAlgorithm\bin\Debug\ChessAlgorithm.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\ChessAlgorithm\bin\Debug\ChessAlgorithm.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\ChessAlgorithm\bin\Debug\ChessAlgorithm.pdb
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\ChessAlgorithm\obj\Debug\ChessAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\ChessAlgorithm\obj\Debug\ChessAlgorithm.dll
+C:\Users\vojda_000\Documents\Visual Studio 2015\Projects\Hyper School\ChessAlgorithm\obj\Debug\ChessAlgorithm.pdb
